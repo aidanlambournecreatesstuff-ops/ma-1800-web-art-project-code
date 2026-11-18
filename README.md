@@ -1,6 +1,6 @@
 # Retina Woods
 
-https://aidanlambournecreatesstuff-ops.github.io/ma-1800-web-art-project-code/page7.html
+https://aidanlambournecreatesstuff-ops.github.io/ma-1800-web-art-project-code/
 
 # Project Description
 Retina Woods is a web-based abstract artwork that presents the social transparency and access of the internet under a horror lens. The non-linear connection of HTML pages creates an environment of being lost. The scary images I edited and inserted into the project add to the horror aesthetic. 
