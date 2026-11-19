@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title>Retina Woods</title>
+        <link rel="stylesheet" href="woods.css">
+        <style>
+            .secret {
+                 text-align: center;
+            }
+            p{
+                font-family:'Courier New', Courier, monospace;
+                color: red;
+                text-align: center;
+                font-size: 2rem;
+                animation: flicker 0.5s infinite;
+            }
+            @keyframes flicker {
+                0%  {color: red;}
+                100%  {color: black;}
+            }
+        </style>
+    </head>
+    <body>
+        <audio autoplay loop>
+        <source src="audio/ha.wav" type="audio/wav">
+        </audio>
+
+        <div class="secret">
+        <img src="images/secret-1.jpg">
+        </div>
+
+        <a href="index.html"> <p>GET OUT</p> </a>
+
+    </body>
+</html>
