@@ -5,8 +5,7 @@ body{
 
 a:link{
   text-decoration: none;
-}
-            
+}            
 a:visited{
   color: red;
 }
@@ -17,139 +16,111 @@ a:hover{
 .box {
   position: absolute;
 }
-
 .box#a {
   top: 200px;
   left: 200px;
 }
-
 .box#b {
   top: 400px;
   right: 400px;
 }
-
 .box#c {
   bottom: 150px;
   left: 500px;
 }
-
 .box#d {
   top: 100px;
   right: 100x;
 }
-
 .box#e {
   top: 0px;
   left: 800px;
 }
-
 .box#f {
   bottom: 100px;
   left: 400px;
 }
-
 .box#g {
   top: 50px;
   left: 700px;
 }
-
 .box#h {
   top: 200px;
   right: 200px;
 }
-
 .box#i {
   top: 50px;
   right: 10px;
 }
-
 .box#j {
   top: 400px;
   right: 300px;
 }
-
 .box#k {
   top: 450px;
   left: 300px;
 }
-
 .box#l {
   bottom: 250px;
   left: 800;
 }
-
 .box#m {
     top: 500px;
     left: 400px;
 }
-
 .box#n {
     top: 500px;
     left: 600px;
 }
-
 .box#o {
     top: 150px;
     left: 400px;
 }
-
 .box#p {
     bottom: 10px;
     right: 10px;
 }
-
 .box#q {
     bottom: 300px;
     left: 25px;
 }
-
 .box#r {
     top: 400px;
     right: 25px;
 }
-
 .box#s {
     top: 150px;
     left: 550px;
 }
-
 .box#t {
     bottom: 200px;
     left: 900px;
 }
-
 .box#u {
     top: 250px;
     right: 250px;
 }
-
 .box#v {
     bottom: 10px;
     left: 900px;
 }
-
 .box#w {
     top: 375px;
     left: 300px;
 }
-
 .box#x {
     top: 10px;
     left: 1000px;
 }
-
 .box#s1 {
     top: 250px;
     right: 400px;
 }
-
 .box#s2 {
     bottom: 10px;
     right: 10px;
 }
-
 .box#s3 {
     top: 10px;
     left: 1000px;
 }
-
